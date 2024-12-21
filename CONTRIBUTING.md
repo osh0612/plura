@@ -1,7 +1,9 @@
 # Contributing
 
-When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of this repository before making a change.
+When contributing to this repository:
+1. First, search through existing issues
+2. Comment "assign me" on the issue you'd like to work on
+3. Repository owners will respond by assigning you to the issue
 
 Please note we have a code of conduct, please follow it in all your interactions with the project.
 
